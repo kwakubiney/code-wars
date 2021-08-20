@@ -8,9 +8,9 @@ sheep=[True,  True,  True,  False,
 
 
 
-def count_sheeps(sheep):
+def count_sheep(sheep):
     y = 0
     for x in range(len(sheep)):
-        if sheep[x] == True:
+        if sheep[x] == True: ##This was my solution but terrible code because sheep is already a boolean
             y += 1
     return y
