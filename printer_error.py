@@ -12,6 +12,6 @@ print(printer_error("adjhjdcbdjjdjs"))
 """
 New thing learnt:
 
-You can use > when conparing letters
+You can use > when comparing letters
 
 """
